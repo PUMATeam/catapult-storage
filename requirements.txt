@@ -74,7 +74,7 @@ oslo.utils==3.42.0
 oslo.versionedobjects==1.36.1
 oslo.vmware==2.34.1
 osprofiler==2.8.2
-paramiko==2.6.0
+paramiko==2.10.1
 Paste==3.2.2
 PasteDeploy==2.0.1
 pbr==5.4.3
